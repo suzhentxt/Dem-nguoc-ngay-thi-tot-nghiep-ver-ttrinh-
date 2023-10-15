@@ -1,7 +1,7 @@
 {
     "name": "Tomodoro",
     "short_name": "Tomodoro",
-    "start_url": "./index.html",
+    "start_url": "./pomodoro.html",
     "description": "A pomodoro timer for the web",
     "icons": [
         {

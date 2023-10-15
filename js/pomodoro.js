@@ -1,8 +1,8 @@
 if ("serviceWorker" in navigator) {
-	navigator.serviceWorker.register("./sw.js");
+	navigator.serviceWorker.register("js/sw.js");
 }
 
-let timerWorker = new Worker("./worker.js");
+let timerWorker = new Worker("js/worker.js");
 
 let root = document.documentElement;
 
