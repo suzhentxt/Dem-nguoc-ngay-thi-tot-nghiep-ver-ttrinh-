@@ -111,7 +111,8 @@ html {
     background-size: cover;      
     background-position: center center;
     background-attachment: fixed;
-
+    width: 120px;
+    height: 120px;
 }
 
 .content-container {
