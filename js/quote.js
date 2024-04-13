@@ -31,7 +31,6 @@ var quote = [
     'Chúc các bạn thấy đề ngắn không kiêu, đề dài không nản, dễ đừng chủ quan và khó thì khỏi phải bàn',
     'Mùa thi xin chúc bạn có: Giấy báo về nhà, chuẩn bị xôi gà, và sẽ phải xa nhà!',
     'Đừng sợ, kì thi này không làm khó bạn được đâu. Vì còn nhiều kì thi đằng sau nữa. Cố lên nhé!',
-    'Bình tĩnh tự tin thi tốt vào ngày mai nha mày! Mày mà không qua… thì tao tiếp tục chúc mày vào đợt thi lại. Đừng lo!',
     'Nếu có bất cứ thứ gì mình muốn nói ngay lúc này thì nó chỉ có thể là “Cố lên”',
     'Hãy tin rằng không có sự thất bại, con người luôn luôn có đủ khả năng để chinh phục những đỉnh cao! Hãy bình tĩnh, cẩn thận, và làm bài một cách thông minh như các bạn vẫn vậy',
     'Suốt 12 năm miệt mài đèn sách, kỳ thi này là lúc em thể hiện khả năng của mình, cố lên và giành được số điểm thật cao nhé. Chúc em thi tốt!',
